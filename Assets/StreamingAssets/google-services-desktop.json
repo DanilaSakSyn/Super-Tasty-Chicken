@@ -1,0 +1,31 @@
+{
+  "project_info": {
+    "project_number": "102067001670",
+    "project_id": "super-chicken-timer",
+    "storage_bucket": "super-chicken-timer.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:102067001670:ios:528a403a335f82f10ced47",
+        "android_client_info": {
+          "package_name": "com.lditdifgjulx.fypbrrzgsvnf"
+        }
+      },
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCoEDuCTZI5liB1-g8UvoivNEYrQFi17c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 0
+        },
+        "appinvite_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

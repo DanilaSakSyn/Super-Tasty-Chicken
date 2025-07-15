@@ -1,0 +1,249 @@
+{
+  "recipes": [
+    {
+      "name": "Omelette",
+      "description": "A simple and delicious omelette.",
+      "iconPath": "Icons/Rectangle 2",
+      "requiredIngredients": [ "Egg", "Milk" ],
+      "instructions": "1. Beat the eggs in a bowl until smooth.\n2. Add milk, a pinch of salt and pepper, and mix well.\n3. Heat a pan with oil and pour in the egg mixture.\n4. Cook over medium heat until the edges are set and the center is almost done."
+    },
+    {
+      "name": "Fried Eggs with Cheese",
+      "description": "Fried eggs with melted cheese.",
+      "iconPath": "Icons/Rectangle 3",
+      "requiredIngredients": [ "Egg", "Cheese" ],
+      "instructions": "1. Heat a pan with oil over medium heat.\n2. Crack the egg into the pan, trying not to break the yolk.\n3. Add salt and pepper to taste.\n4. When the white is almost cooked, sprinkle grated cheese evenly and cook for another minute until melted."
+    },
+    {
+      "name": "Tomato Salad with Cheese",
+      "description": "A light salad of fresh tomatoes and cheese.",
+      "iconPath": "Icons/Rectangle 4",
+      "requiredIngredients": [ "Cheese", "Tomato" ],
+      "instructions": "1. Wash and cut the tomatoes into large wedges.\n2. Cut the cheese into 1-2 cm cubes.\n3. Mix tomatoes and cheese in a salad bowl.\n4. Optionally add fresh herbs (basil, parsley) and dress with olive oil."
+    },
+    {
+      "name": "Borscht",
+      "description": "Classic beetroot soup.",
+      "iconPath": "Icons/Rectangle 1",
+      "requiredIngredients": [ "Beetroot", "Cabbage", "Potato", "Carrot", "Beef" ],
+      "instructions": "1. Boil beef broth for 1-1.5 hours.\n2. Shred the cabbage, cut potatoes into cubes.\n3. Grate carrot and beetroot, finely chop onion. Sauté vegetables until soft.\n4. When the broth is ready, remove the meat, add potatoes and cabbage to the broth. After 10 minutes, add sautéed vegetables. Cook for 15 minutes until done."
+    },
+    {
+      "name": "Pizza Margherita",
+      "description": "Classic Italian pizza.",
+      "iconPath": "Icons/Rectangle 5",
+      "requiredIngredients": [ "Pizza dough", "Tomato sauce", "Mozzarella", "Basil" ],
+      "instructions": "1. Preheat the oven to 220°C.\n2. Roll out the pizza dough into a thin circle on a floured surface.\n3. Spread tomato sauce evenly, leaving a small border.\n4. Sprinkle with grated mozzarella and decorate with fresh basil leaves.\n5. Bake for 10-15 minutes until golden and the cheese is melted."
+    },
+    {
+      "name": "Pasta Carbonara",
+      "description": "Roman pasta with creamy sauce.",
+      "iconPath": "Icons/Rectangle 6",
+      "requiredIngredients": [ "Spaghetti", "Guanciale", "Egg", "Pecorino cheese", "Black pepper" ],
+      "instructions": "1. Cut guanciale (or bacon) and fry in a dry pan until crispy.\n2. Boil spaghetti in salted water until al dente.\n3. In a bowl, mix egg yolks, grated Pecorino cheese, and plenty of freshly ground black pepper.\n4. Transfer hot pasta to the pan with guanciale, remove from heat, and immediately add the egg-cheese mixture, stirring quickly so the eggs don't scramble."
+    },
+    {
+      "name": "Greek Salad",
+      "description": "Refreshing salad with vegetables and cheese.",
+      "iconPath": "Icons/Rectangle 6",
+      "requiredIngredients": [ "Tomato", "Cucumber", "Bell pepper", "Onion", "Olive oil", "Cheese" ],
+      "instructions": "1. Cut tomatoes, cucumbers, and bell pepper into large pieces.\n2. Slice red onion into thin half-rings.\n3. Cut feta cheese into cubes.\n4. Mix all ingredients in a large bowl, drizzle with olive oil, and toss gently."
+    },
+    {
+      "name": "Chicken Soup",
+      "description": "Simple and hearty chicken noodle soup.",
+      "iconPath": "Icons/Rectangle 7",
+      "requiredIngredients": [ "Chicken", "Carrot", "Onion", "Spaghetti", "Salt" ],
+      "instructions": "1. Boil the chicken until done. Remove the meat, separate from bones, and cut.\n2. Add diced carrot and finely chopped onion to the broth.\n3. After 10-15 minutes, add broken spaghetti.\n4. Return the meat to the soup, salt to taste, and cook until the pasta is ready."
+    },
+    {
+      "name": "Fried Rice with Egg",
+      "description": "Quick Asian dish.",
+      "iconPath": "Icons/Rectangle 8",
+      "requiredIngredients": [ "Rice", "Egg", "Onion", "Olive oil", "Salt" ],
+      "instructions": "1. It's best to use cold, day-old rice.\n2. Sauté finely chopped onion in hot oil until golden.\n3. Add rice and fry for 3-4 minutes, breaking up clumps.\n4. Push rice aside, crack an egg into the empty space, scramble quickly, then mix with rice. Salt to taste."
+    },
+    {
+      "name": "Mashed Potatoes",
+      "description": "A tender side dish for any meal.",
+      "iconPath": "Icons/Rectangle 9",
+      "requiredIngredients": [ "Potato", "Milk", "Salt" ],
+      "instructions": "1. Peel and quarter the potatoes, boil in salted water until completely soft (about 20 minutes).\n2. Drain all the water.\n3. Heat the milk, but do not boil.\n4. Mash the potatoes thoroughly, gradually adding hot milk until the desired consistency is reached. Salt to taste."
+    },
+    {
+      "name": "Steak",
+      "description": "Juicy steak for dinner.",
+      "iconPath": "Icons/Rectangle 10",
+      "requiredIngredients": [ "Beef", "Salt", "Black pepper", "Garlic", "Olive oil" ],
+      "instructions": "1. Take the steak out of the refrigerator 20-30 minutes before cooking.\n2. Dry the meat with paper towels. Salt and pepper it and crush the garlic.\n3. Heat the pan with olive oil vigorously.\n4. Cook the steak for 2-4 minutes on each side for medium-rare cooking. After cooking, let it rest for 5 minutes."
+    },
+    {
+      "name": "Caesar Salad",
+      "description": "World-famous salad.",
+      "iconPath": "Icons/Rectangle 11",
+      "requiredIngredients": [ "Chicken", "Bread", "Cheese", "Garlic", "Olive oil", "Lemon", "Egg" ],
+      "instructions": "1. Cook the chicken fillet and cut it into pieces. \n2. Slice the bread into cubes, brush with oil, and dry in the oven to a crouton state.\n3. For the sauce, mix the egg yolk, lemon juice, crushed garlic, and olive oil. Whisk until homogeneous.\n4. Mix the chicken, croutons, grated cheese, and sauce."
+    },
+    {
+      "name": "Mushroom and Potato Gratin",
+      "description": "Homely and cozy dish.",
+      "iconPath": "Icons/Rectangle 12",
+      "requiredIngredients": [ "Potato", "Mushrooms", "Onion", "Olive oil" ],
+      "instructions": "1. Cut the potatoes into large pieces. Fry on a strong flame until golden brown, then reduce the heat and cook until soft.\n2. On a separate pan, fry the sliced mushrooms with onion until the liquid evaporates.\n3. Combine the potatoes with the mushrooms, salt, pepper, and cook for another 5 minutes."
+    },
+    {
+      "name": "Grilled Fish with Lemon",
+      "description": "Light and healthy dish.",
+      "iconPath": "Icons/Rectangle 13",
+      "requiredIngredients": [ "Fish", "Lemon", "Salt", "Black pepper", "Olive oil" ],
+      "instructions": "1. Clean the fish. Make several shallow incisions on both sides.\n2. Salt and pepper the fish and olive oil.\n3. Place the lemon slices in the cavity and incisions.\n4. Cook on the grill or bake in the oven at 200°C for about 15-20 minutes."
+    },
+    {
+      "name": "Cheese Strudel",
+      "description": "Classic breakfast.",
+      "iconPath": "Icons/Rectangle 14",
+      "requiredIngredients": [ "Cheese", "Flour", "Egg", "Sugar" ],
+      "instructions": "1. In a bowl, mix the cottage cheese (previously strained for softness), egg, and sugar.\n2. Gradually add flour, kneading a soft dough.\n3. Form small pancakes, roll in flour.\n4. Fry on a skillet with oil on both sides until golden brown."
+    },
+    {
+      "name": "Pizza with Mushrooms and Bacon",
+      "description": "Tasty and aromatic pizza.",
+      "iconPath": "Icons/Rectangle 15",
+      "requiredIngredients": [ "Pizza dough", "Tomato sauce", "Mozzarella", "Mushrooms", "Bacon" ],
+      "instructions": "1. Roll out the pizza dough.\n2. Brush the base with tomato sauce.\n3. Evenly distribute the sliced mushrooms and bacon strips.\n4. Sprinkle with grated mozzarella and bake at 220°C for about 15 minutes."
+    },
+    {
+      "name": "French Onion Soup",
+      "description": "Soup with caramelized onions and cheese crust.",
+      "iconPath": "Icons/Rectangle 16",
+      "requiredIngredients": [ "Onion", "Bread", "Cheese", "Beef", "Salt" ],
+      "instructions": "1. Slice the onion into thin rings.\n2. In a deep saucepan, melt the butter and simmer the onion very slowly over low heat for 30-40 minutes until deep caramel color.\n3. Pour in beef broth, bring to a boil, and simmer for 15 minutes.\n4. Pour the soup into ramekins, top with a slice of dried bread, sprinkle with cheese, and bake in the oven until the cheese melts."
+    },
+    {
+      "name": "Ratatouille",
+      "description": "Provencal vegetable stew.",
+      "iconPath": "Icons/Rectangle 17",
+      "requiredIngredients": [ "Tomato", "Black pepper", "Onion", "Garlic", "Olive oil", "Basil" ],
+      "instructions": "1. On the bottom of the baking dish, spread the sauce made from sautéed onion, garlic, and part of the tomatoes.\n2. Slice the remaining tomatoes and pepper into thin circles.\n3. Arrange the vegetables in layers alternating.\n4. Drizzle with olive oil, sprinkle with basil, salt, and pepper. Bake under foil for 40 minutes at 180°C, then 15 minutes without foil."
+    },
+    {
+      "name": "Beef Burgers",
+      "description": "Juicy home burgers.",
+      "iconPath": "Icons/Rectangle 18",
+      "requiredIngredients": [ "Beef", "Onion", "Bread", "Egg", "Black pepper", "Salt" ],
+      "instructions": "1. Soak the bread slice in milk or water.\n2. Mix the beef mince with very finely chopped onion and squeezed bread.\n3. Add egg, salt, and pepper. Thoroughly mix the mince.\n4. Form burgers and cook on a skillet on both sides until done."
+    },
+    {
+      "name": "Pasta Pomodoro",
+      "description": "Simple pasta with tomato sauce.",
+      "iconPath": "Icons/Rectangle 19",
+      "requiredIngredients": [ "Spaghetti", "Tomato sauce", "Tomato", "Garlic", "Basil" ],
+      "instructions": "1. Cook spaghetti.\n2. Fry the minced garlic on olive oil on a skillet.\n3. Add the sliced fresh tomatoes and ready tomato sauce, simmer for 5-7 minutes.\n4. Add the ready pasta to the sauce, fresh basil, mix, and heat everything together."
+    },
+    {
+      "name": "Rice Pudding",
+      "description": "Sweet and tender dessert.",
+      "iconPath": "Icons/Rectangle 20",
+      "requiredIngredients": [ "Rice", "Milk", "Sugar", "Egg" ],
+      "instructions": "1. Wash the rice. Pour milk into a pot, add sugar.\n2. Cook on low heat, constantly stirring, until the rice is fully cooked (about 25-30 minutes).\n3. Remove from heat. Separate the yolk from the white. Carefully insert the yolk into the hot pudding, quickly mixing.\n4. Serve warm or cold."
+    },
+    {
+      "name": "Roasted Chicken with Potatoes",
+      "description": "Full meal on one tray.",
+      "iconPath": "Icons/Rectangle 21",
+      "requiredIngredients": [ "Chicken", "Potato", "Garlic", "Olive oil", "Salt", "Black pepper" ],
+      "instructions": "1. Combine the chicken (thighs, thighs, or breast) and diced potatoes in a large bowl.\n2. Add olive oil, crushed garlic, salt, and pepper. Mix well.\n3. Place all on a tray in one layer.\n4. Bake in a preheated to 200°C oven for about 45-50 minutes until the chicken is done and the potatoes are golden."
+    },
+    {
+      "name": "Bruschetta with Tomatoes",
+      "description": "Italian appetizer.",
+      "iconPath": "Icons/Rectangle 22",
+      "requiredIngredients": [ "Bread", "Tomato", "Garlic", "Basil", "Olive oil" ],
+      "instructions": "1. Slice the bread (ciabatta or baguette) into 1.5-2 cm thick slices.\n2. Dry the bread in the oven, on the grill, or on a dry skillet until crispy.\n3. Rub the hot bread slices with half a garlic clove.\n4. Finely chop the tomatoes, mix with minced basil, salt, and olive oil. Place the filling on the bread."
+    },
+    {
+      "name": "Shakshuka",
+      "description": "Eggs in tomato sauce.",
+      "iconPath": "Icons/Rectangle 23",
+      "requiredIngredients": [ "Egg", "Tomato", "Onion", "Garlic", "Black pepper" ],
+      "instructions": "1. Slice the onion, garlic, and pepper. Fry on a skillet until soft.\n2. Add the sliced tomatoes (or tomatoes in their own juice) and spices. Simmer for 10 minutes until the sauce thickens.\n3. Make small indentations in the sauce and carefully break the eggs into them.\n4. Cook on low heat under a lid, until the whites set, and the yolk remains liquid."
+    },
+    {
+      "name": "Beef Stroganoff",
+      "description": "Beef in cream sauce.",
+      "iconPath": "Icons/Rectangle 24",
+      "requiredIngredients": [ "Beef", "Mushrooms", "Onion", "Flour", "Milk", "Salt" ],
+      "instructions": "1. Slice the beef thinly against the grain. Flour it.\n2. Quickly fry the meat on a strong flame until golden and transfer to another container.\n3. On the same skillet, fry the sliced onion and mushrooms.\n4. Return the meat to the skillet, add milk (or sour cream), salt, pepper, and simmer on low heat for 15-20 minutes."
+    },
+    {
+      "name": "Frittata with Vegetables",
+      "description": "Italian omelette that bakes.",
+      "iconPath": "Icons/Rectangle 25",
+      "requiredIngredients": [ "Egg", "Potato", "Onion", "Cheese", "Black pepper" ],
+      "instructions": "1. Slice the boiled potato, onion, and pepper. Fry on a skillet, which can be placed in the oven.\n2. Whisk the eggs with grated cheese, salt, and pepper.\n3. Pour the egg mixture directly onto the skillet.\n4. Cook on the stove for 2-3 minutes, then place in a preheated to 180°C oven for 10-15 minutes."
+    },
+    {
+      "name": "Chicken Nuggets",
+      "description": "Crunchy chicken pieces.",
+      "iconPath": "Icons/Rectangle 26",
+      "requiredIngredients": [ "Chicken", "Flour", "Egg", "Bread" ],
+      "instructions": "1. Cut the chicken fillet into small pieces.\n2. Prepare three plates: with flour, with beaten egg, and with breadcrumbs (ground dry bread).\n3. Each chicken piece dip first in flour, then in egg, and finally in breadcrumbs.\n4. Fry in a large amount of preheated oil until golden brown."
+    },
+    {
+      "name": "Draniki",
+      "description": "Potato pancakes.",
+      "iconPath": "Icons/Rectangle 27",
+      "requiredIngredients": [ "Potato", "Onion", "Egg", "Flour" ],
+      "instructions": "1. Grate raw potato and onion on a fine grater.\n2. Good squeeze to remove excess liquid.\n3. Add egg, a couple of tablespoons of flour, salt, and pepper. Mix well.\n4. Lay out the dough on a preheated skillet with oil and fry on both sides until crispy."
+    },
+    {
+      "name": "Gaspacho",
+      "description": "Cold Spanish soup.",
+      "iconPath": "Icons/Rectangle 28",
+      "requiredIngredients": [ "Tomato", "Cucumber", "Black pepper", "Onion", "Garlic", "Bread", "Olive oil" ],
+      "instructions": "1. Peel the tomatoes and cucumbers from the skin.\n2. Soak the bread slice in water for a couple of minutes, then squeeze.\n3. Combine all the vegetables and bread in a blender, add garlic, olive oil, salt, and a little vinegar (optional).\n4. Blend until smooth. Serve very cold."
+    },
+    {
+      "name": "Tomato Cream Soup",
+      "description": "Velvety soup from fresh tomatoes.",
+      "iconPath": "Icons/Rectangle 39",
+      "requiredIngredients": [ "Tomato", "Onion", "Garlic", "Bread", "Basil", "Olive oil" ],
+      "instructions": "1. Simmer the sliced tomatoes, onion, and garlic until the vegetables are completely soft.\n2. Pour the vegetable mixture into a blender and blend until absolutely smooth, creamy consistency.\n3. Return the soup to the pot, heat, add salt, pepper, and fresh basil.\n4. Serve with gremolata from dried bread."
+    },
+    {
+      "name": "Sandwich with Chicken and Cheese",
+      "description": "Quick snack.",
+      "iconPath": "Icons/Rectangle 40",
+      "requiredIngredients": [ "Bread", "Chicken", "Cheese", "Tomato" ],
+      "instructions": "1. Take two slices of bread.\n2. On one slice, place the sliced boiled or fried chicken fillet.\n3. Top with a slice of tomato and a slice of cheese.\n4. Cover with the second slice of bread. For better taste, you can fry the sandwich on a skillet until the cheese melts."
+    },
+    {
+      "name": "Risotto with Mushrooms",
+      "description": "Italian rice dish.",
+      "iconPath": "Icons/Rectangle 41",
+      "requiredIngredients": [ "Rice", "Mushrooms", "Onion", "Cheese", "Olive oil", "Salt" ],
+      "instructions": "1. Slice the onion and mushrooms. Fry on olive oil until golden.\n2. Add the special rice for risotto (e.g., Arborio) and fry for a couple of minutes.\n3. Gradually, one by one, pour hot broth or water, constantly stirring. Add the next portion of liquid only when the previous one is absorbed.\n4. When the rice is done (al dente), remove from heat, add grated cheese, salt, and mix."
+    },
+    {
+      "name": "Tuna Salad",
+      "description": "Light salad with canned tuna.",
+      "iconPath": "Icons/Rectangle 42",
+      "requiredIngredients": [ "Fish", "Egg", "Onion", "Cucumber", "Lemon" ],
+      "instructions": "1. Boil the eggs and cut into cubes.\n2. From the canned tuna (tuna), drain the liquid and mix with a fork.\n3. Finely chop the onion and cucumber.\n4. Mix all ingredients in a bowl and dress with lemon juice. Salt to taste."
+    },
+    {
+      "name": "Cesadilla with Chicken",
+      "description": "Mexican bread with filling.",
+      "iconPath": "Icons/Rectangle 43",
+      "requiredIngredients": [ "Pizza dough", "Chicken", "Cheese", "Black pepper", "Onion" ],
+      "instructions": "1. Slice the chicken, pepper, and onion. Fry until done.\n2. Roll out the dough into a thin pancake.\n3. On one half of the pancake, spread the filling made from chicken and vegetables, top with grated cheese.\n4. Fold the pancake in half and fry on a dry skillet on both sides until golden and melted cheese."
+    },
+    {
+      "name": "Blintzes",
+      "description": "Thin pancakes on milk.",
+      "iconPath": "Icons/Rectangle 44",
+      "requiredIngredients": [ "Flour", "Milk", "Egg", "Sugar", "Salt", "Olive oil" ],
+      "instructions": "1. Whisk the eggs with sugar and salt.\n2. Gradually add flour and milk, constantly mixing, to avoid lumps. The dough should be liquid, like kefir.\n3. Add a couple of tablespoons of vegetable oil to the dough and mix.\n4. Bake thin pancakes on a well-heated skillet."
+    }
+  ]
+} 
