@@ -379,7 +379,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &183783143
 Transform:
   m_ObjectHideFlags: 0
@@ -2028,7 +2028,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: -70.24402}
+  m_AnchoredPosition: {x: 0, y: -70.24414}
   m_SizeDelta: {x: 0, y: 170.2987}
   m_Pivot: {x: 0.5, y: 1}
 --- !u!114 &503769559
@@ -3409,6 +3409,83 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 906276271}
   m_CullTransparentMesh: 1
+--- !u!1001 &912235155
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 382165212978198656, guid: 3376294fb51ed4820a844266f8aef425, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 382165212978198656, guid: 3376294fb51ed4820a844266f8aef425, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 382165212978198656, guid: 3376294fb51ed4820a844266f8aef425, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 382165212978198656, guid: 3376294fb51ed4820a844266f8aef425, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 382165212978198656, guid: 3376294fb51ed4820a844266f8aef425, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 382165212978198656, guid: 3376294fb51ed4820a844266f8aef425, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 382165212978198656, guid: 3376294fb51ed4820a844266f8aef425, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 382165212978198656, guid: 3376294fb51ed4820a844266f8aef425, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 382165212978198656, guid: 3376294fb51ed4820a844266f8aef425, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 382165212978198656, guid: 3376294fb51ed4820a844266f8aef425, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7585373355302651059, guid: 3376294fb51ed4820a844266f8aef425, type: 3}
+      propertyPath: IOS_ID
+      value: 6748640261
+      objectReference: {fileID: 0}
+    - target: {fileID: 7585373355302651059, guid: 3376294fb51ed4820a844266f8aef425, type: 3}
+      propertyPath: endpoint
+      value: https://supertastychicken.com
+      objectReference: {fileID: 0}
+    - target: {fileID: 7585373355302651059, guid: 3376294fb51ed4820a844266f8aef425, type: 3}
+      propertyPath: appsflyerDevID
+      value: EABedwkymxYeeBvHF5NH6m
+      objectReference: {fileID: 0}
+    - target: {fileID: 7585373355302651059, guid: 3376294fb51ed4820a844266f8aef425, type: 3}
+      propertyPath: _sleepObjects.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7585373355302651059, guid: 3376294fb51ed4820a844266f8aef425, type: 3}
+      propertyPath: '_sleepObjects.Array.data[0]'
+      value: 
+      objectReference: {fileID: 1808210670}
+    - target: {fileID: 8007527105183578331, guid: 3376294fb51ed4820a844266f8aef425, type: 3}
+      propertyPath: m_Name
+      value: '[CanvasHolder]'
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 3376294fb51ed4820a844266f8aef425, type: 3}
 --- !u!1 &935157878
 GameObject:
   m_ObjectHideFlags: 0
@@ -4875,8 +4952,8 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 562920193}
   m_HandleRect: {fileID: 562920192}
   m_Direction: 2
-  m_Value: 1
-  m_Size: 0.74141496
+  m_Value: 0.9999997
+  m_Size: 0.7411851
   m_NumberOfSteps: 0
   m_OnValueChanged:
     m_PersistentCalls:
@@ -12843,3 +12920,4 @@ SceneRoots:
   - {fileID: 470235316}
   - {fileID: 449502714}
   - {fileID: 183783143}
+  - {fileID: 912235155}
